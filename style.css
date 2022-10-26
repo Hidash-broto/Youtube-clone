@@ -1,0 +1,213 @@
+ .side-bar
+{
+    width: 70px;
+    height: 712px;
+    background-color: #212121;
+    display: inline-block;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    grid-row: 1f,;
+}
+body{
+    margin: 0%;
+}.topbar
+{
+    width: 88.auto;
+    height: 56px;
+    background-color: #212121;
+    padding-left: 5px;
+    display: flex;
+}.topbar-2
+{
+    background-color: #212121;
+    width: 1222px;
+   /* height: 50px;*/
+    border: solid 1px;
+    border-color: rgb(54, 54, 52);
+    display: flex;
+    border-left: none;
+    border-right: none;
+}.videos-place
+{
+    background-color: rgb(255, 255, 255);
+    width: 1202px;
+    height: 594px;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-top: 7px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+.fa-brands
+{
+    color: red;
+    margin-top: 7px;
+
+
+}.corner-logo
+{
+    color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline-block;
+}.in
+{
+    font-size: 15px;
+}.search
+{
+    margin-left: 170px;
+    width: 550px;
+    height: 40px;
+    background-color: #111;
+    border: none;
+    color: #5e5e5e;
+    margin-top: 8px;
+    font-size: 16px;
+    padding-left: 5px;
+    border-radius: 2px;
+}
+.videos-place
+{
+    background-color: rgb(15, 15, 15);
+}.bsearch
+{
+    width: 50px;
+    height: 42px;  
+    background-color: #383838;   
+    border: none;     
+    height: 40px;
+    width: 64px;
+    margin-top: 8px; 
+    border-radius: 2px;
+    cursor: pointer;                                                                                          
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}.top-voice{
+    background-color: black;
+    border: none;
+    margin-left: 15px;
+    border-radius: 80%;
+    height: 42px;
+    width: 45px;
+    margin-top: 8px;
+}.material-symbols-outlined{
+    color: white;
+}.profile-photo{
+    border-radius: 50%;
+    height: 32px;
+    margin-top: 11px;
+    margin-left: 20px;
+    
+}#video-call{
+    height: 32px;
+    margin-top: 16px;
+    margin-left: 115px;
+}#notification{
+    height: 32px;
+    margin-top: 16px;
+    margin-left: 20px;
+}#menu-icon{
+    margin-left: 20px;
+    margin-top: 15px;
+    display: inline-block;
+}.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}#home-icon{
+    margin-left: 19px;
+    margin-top: 25px;
+}.shorts-icon{
+    margin-left: 12px;
+    margin-top: 9px;
+}#sub-icon{
+    margin-top: 14px;
+    margin-left: 20px;
+}#lib-icon{
+    margin-top: 25px;
+    margin-left: 18px;
+}.home-text{
+    color: white;
+    font-size: 10px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-top: 2px;
+    margin-left: 17px;
+}.sub-text{
+    color: white;
+    font-size: 10px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-top: 3px;
+    margin-left: 5px;
+}.lib-text{
+    color: white;
+    font-size: 10px;
+    font-family: Roboto, Arial, sans-serif;
+    margin-top: 5px;
+    margin-left: 14px;
+}.indi-video-div{
+    width: 290px;
+    height: 280px;
+    background-color: rgb(15, 15, 15);
+    margin-top: 15px;
+}.thumbnail-place{
+    width: 100%;
+    height: 158px;
+    background-color: rgb(15, 15, 15);
+}.channel-photo{
+    width: 52px;
+    height: 50px;
+    background-color: rgb(15, 15, 15);
+    float: left;
+    padding-top: 16px;
+}.title-video{
+    width: 82%;
+    height: 123px;
+    background-color: rgb(15, 15, 15);
+    float: left;
+}.thumb-1{
+    width: 100%;
+}.chnnl-1{
+    border-radius: 50%;
+    width: 40px;
+}.title-1{
+    font-family: "Roboto","Arial",sans-serif;
+    color: white;
+}.title-2{
+    color: #686868;
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 12px;
+    margin-top: -9px;
+}#title-3{
+    
+}.buttons{
+    padding: .5em 1em .5em 1em;
+    text-decoration: none;
+    border: 1px solid rgb(62, 62, 62);
+    border-radius: 1.6em;
+    color: rgb(255, 255, 255);
+    background:rgb(82, 82, 82)
+    font-family: sans-serif;
+    margin: 0.5em;
+    
+}.atag{
+    text-decoration: none;
+    color: white;
+}
